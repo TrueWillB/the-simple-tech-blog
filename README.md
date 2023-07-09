@@ -1,5 +1,7 @@
 # The Simple Tech Blog
 
+### Deployed Heroku App: https://the-simple-tech-blog-c9a096edfc9e.herokuapp.com/
+
 ## Table of Contents
 
 - [Description](#description)
